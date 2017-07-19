@@ -2351,7 +2351,7 @@ a:focus {
     .header-shrink.header .navbar {
       background: #fff; }
     .header-shrink.header .navbar-logo {
-      width: 85px;
+      width: 185px;
       height: 85px;
       max-height: 70px;
       line-height: 35px;
@@ -2560,7 +2560,7 @@ a:focus {
 /* Shopping Cart */
 /* Navbar Logo */
 .header-transparent .navbar-logo {
-  width: 100px;
+  width: 200px;
   height: 100px;
   float: left;
   max-height: 90px;
@@ -2575,7 +2575,7 @@ a:focus {
       text-decoration: none; }
   .header-transparent .navbar-logo .navbar-logo-img {
     display: inline-block;
-    width: 85px;
+    width: 185px;
     height: auto;
     max-width: 100%;
     max-height: 100%;
@@ -2819,7 +2819,7 @@ a:focus {
     .header-shrink.header-transparent .navbar {
       background: #fff; }
     .header-shrink.header-transparent .navbar-logo {
-      width: 85px;
+      width: 185px;
       height: 85px;
       max-height: 70px;
       line-height: 35px;
