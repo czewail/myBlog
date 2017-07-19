@@ -1,19 +1,19 @@
 @extends('layouts.index')
 @section('title')
-<title>{{$category}} - i晚黎博客</title>
+<title>{{$category}} - 陈泽韦的博客</title>
 @endsection
 @section('promo')
 <section class="breadcrumbs-v5 bg-position-fixed breadcrumbs-v5-bg-img-v4">
     <div class="container">
-        <h2 class="breadcrumbs-v5-title">I am Wanli</h2>
-        <span class="breadcrumbs-v5-subtitle">I am a slow walker, but I never walk backwards...</span>
+        <h2 class="breadcrumbs-v5-title">Hello World</h2>
+        <span class="breadcrumbs-v5-subtitle">小榻琴心展，长缨剑胆舒。</span>
     </div>
 </section>
 <section class="breadcrumbs-v1">
     <div class="container">
         <h2 class="breadcrumbs-v1-title">{{$category}}</h2>
         <ol class="breadcrumbs-v1-links">
-            <li><a href="{{url('/')}}">Home</a></li>
+            <li><a href="{{url('/')}}">首页</a></li>
             <li class="active">{{$category}}</li>
         </ol>
     </div>
