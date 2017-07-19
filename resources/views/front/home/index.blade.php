@@ -14,8 +14,8 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="heading-v1 margin-b-20 text-center">
-                        <h2 class="heading-v1-title">碎碎念</h2>
-                        <span class="heading-v1-subtitle">我好像在哪见过你</span>
+                        <h2 class="heading-v1-title">我好像在哪见过你</h2>
+                        <!-- <span class="heading-v1-subtitle"></span> -->
                     </div>
 
                     <p>我将在茫茫人海中寻访我唯一之灵魂伴侣。</p>

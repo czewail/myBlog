@@ -8,7 +8,7 @@
 @show
 <meta name="keywords" content="琴心剑胆,陈泽韦的博客,陈泽韦" />
 <meta name="description" content="陈泽韦的博客致力于提供优质学习资源,分享个人笔记.">
-<meta name="author" content="iwanli.me">
+<meta name="author" content="chenzewei.cn">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="{{asset('front/plugins/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css"/>
 <link href="{{asset('front/plugins/font-awesome/css/font-awesome.min.css')}}" rel="stylesheet" type="text/css"/>
@@ -50,7 +50,7 @@
                                 @else
                                 <li class="timeline-v2-list-item">
                                     <i class="timeline-v2-badge-icon radius-circle fa fa-calendar"></i>
-                                    <small class="timeline-v2-news-date">iwanli</small>
+                                    <small class="timeline-v2-news-date">czw</small>
                                     <h5 class="timeline-v2-news-title">{{trans('labels.hot')}}</h5>
                                 </li>
                                 @endif
