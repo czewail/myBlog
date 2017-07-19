@@ -38,7 +38,7 @@
                     <ul class="nav navbar-nav">
                         <li class="nav-item">
                             <a class="nav-item-child radius-3" href="{{url('/')}}">
-                                Home
+                                首页
                             </a>
                         </li>
                         @if($categories)
