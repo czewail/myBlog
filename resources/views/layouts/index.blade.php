@@ -4,10 +4,10 @@
 <meta charset="utf-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 @section('title')
-<title>i晚黎 - i晚黎博客</title>
+<title>琴心剑胆 - 陈泽韦的博客</title>
 @show
-<meta name="keywords" content="i晚黎,晚黎博客,Laravel,PHP,PHP框架,教程,资源,学习,笔记" />
-<meta name="description" content="i晚黎博客致力于提供优质学习资源,分享个人笔记.">
+<meta name="keywords" content="琴心剑胆,陈泽韦的博客,陈泽韦" />
+<meta name="description" content="陈泽韦的博客致力于提供优质学习资源,分享个人笔记.">
 <meta name="author" content="iwanli.me">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="{{asset('front/plugins/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css"/>
@@ -77,7 +77,7 @@
                         </div>
                     </div>
 
-                    <div class="blog-sidebar">
+                    <!-- <div class="blog-sidebar">
                         <div class="blog-sidebar-heading">
                             <i class="blog-sidebar-heading-icon fa fa-paperclip"></i>
                             <h4 class="blog-sidebar-heading-title">友情链接</h4>
@@ -89,7 +89,7 @@
                                 <li><i class="lists-item-element fa fa-angle-right"></i> <a target="_black" href="http://aabvip.com/">明日复明日</a></li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                     @show
                 </div>
             </div>
@@ -100,23 +100,23 @@
                 <div class="col-sm-6 sm-margin-b-30">
                     <div class="footer-address">
                         <h3 class="footer-title">About Me</h3>
-                        <p class="footer-address-text">如果你有什么疑问或者交流，下面联系方式可以找到晚黎~.~</p>
-                        <p class="footer-address-text">QQ:709344897</p>
-                        <a class="footer-address-link" href="mailto:709344897@qq.com">709344897@qq.com</a>
+                        <p class="footer-address-text">你可以通过以下方式联系到萌萌的博主</p>
+                        <p class="footer-address-text">QQ:549226266</p>
+                        <a class="footer-address-link" href="mailto:549226266@qq.com">549226266@qq.com</a>
                     </div>
                 </div>
                 <div class="col-sm-6">
                     <div class="footer-testimonials">
                         <div class="footer-testimonials-quote">
-                            <p>当你的才华还撑不起你的野心时，就应该静下心来学习,当你的能力还驾驭不了你的目标时，就应该沉下心来历练.</p>
+                            <p>小榻琴心展，长缨剑胆舒。</p>
                         </div>
-                        <span class="footer-testimonials-author">&#8212; iWanli</span>
+                        <span class="footer-testimonials-author">&#169;陈泽韦</span>
                     </div>
                 </div>
             </div>
 
             <ul class="list-inline footer-copyright">
-                <li class="footer-copyright-item">Copyright &#169; 2016 iWanli. All Rights Reserved.</li>
+                <li class="footer-copyright-item">Copyright &#169; 2017 陈泽韦. All Rights Reserved.</li>
             </ul>
         </div>
     </footer>
