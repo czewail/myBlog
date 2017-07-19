@@ -19,15 +19,7 @@
         <label class="control-label visible-ie8 visible-ie9">{{trans('auth.password')}}</label>
         <input class="form-control form-control-solid placeholder-no-fix" type="password" placeholder="Password" name="password" /> 
     </div>
-    <div class="form-group">
-        <label class="control-label visible-ie8 visible-ie9">{{trans('auth.captcha')}}</label>
-        <div class="input-group">
-            <input id="newpassword" class="form-control" type="text" name="captcha" placeholder="captcha">
-            <span class="input-group-btn">
-                <img style="cursor: pointer;" src="{{captcha_src()}}" onclick="this.src='{{captcha_src()}}' + Math.random()">
-            </span>
-        </div>
-    </div>
+
     <div class="form-actions">
         <button type="submit" class="btn green uppercase">{{trans('auth.login')}}</button>
         <label class="rememberme check">
