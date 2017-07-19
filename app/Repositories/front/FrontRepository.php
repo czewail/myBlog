@@ -5,7 +5,7 @@ use App\Models\Article;
 use App\Models\ArticleTag;
 use App\Models\Tag;
 use Cache;
-use Redis;
+use LRedis as Redis;
 class FrontRepository
 {
 	/**

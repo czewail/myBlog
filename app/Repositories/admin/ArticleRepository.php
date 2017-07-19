@@ -5,7 +5,7 @@ use App\Models\Tag;
 use Carbon\Carbon;
 use Flash;
 use zgldh\QiniuStorage\QiniuStorage;
-use Redis;
+use LRedis as Redis;
 use Cache;
 /**
 * 文章仓库
