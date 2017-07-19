@@ -1,6 +1,6 @@
 @extends('layouts.index')
 @section('title')
-<title>{{$article->title}} - i晚黎博客</title>
+<title>{{$article->title}} - 陈泽韦的博客</title>
 @endsection
 @section('css')
 <link href="{{asset('front/plugins/highlight/styles/monokai-sublime.css')}}" rel="stylesheet" type="text/css"/>
@@ -8,15 +8,15 @@
 @section('promo')
 <section class="breadcrumbs-v5 bg-position-fixed breadcrumbs-v5-bg-img-v4">
     <div class="container">
-        <h2 class="breadcrumbs-v5-title">I am Wanli</h2>
-        <span class="breadcrumbs-v5-subtitle">I am a slow walker, but I never walk backwards...</span>
+        <h2 class="breadcrumbs-v5-title">Hello World</h2>
+        <span class="breadcrumbs-v5-subtitle">小榻琴心展，长缨剑胆舒。</span>
     </div>
 </section>
 <section class="breadcrumbs-v1">
     <div class="container">
-        <h2 class="breadcrumbs-v1-title">Article</h2>
+        <h2 class="breadcrumbs-v1-title">文章</h2>
         <ol class="breadcrumbs-v1-links">
-            <li><a href="{{url('/')}}"><i class="fa fa-home"></i> Home</a></li>
+            <li><a href="{{url('/')}}"><i class="fa fa-home"></i> 首页</a></li>
             <li><a href="{{url('cate/'.$article->category_id)}}"><i class="fa fa-navicon"></i> {{$category}}</a></li>
             <li class="active">{{$article->title}}</li>
         </ol>
