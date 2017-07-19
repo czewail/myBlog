@@ -2,9 +2,9 @@
 @section('promo')
 <div class="promo-block-v1 promo-block-v1-bg-img-v3 fullheight text-center">
     <div class="container vertical-center-aligned">
-        <h1 class="promo-block-v1-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0">Welcome To iWanli's Blog</h1>
+        <h1 class="promo-block-v1-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0">Hello World</h1>
         <p class="promo-block-v1-text margin-b-40 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-            I am a slow walker, but I never walk backwards...
+            小榻琴心展，长缨剑胆舒。
         </p>
     </div>
 </div>
@@ -14,13 +14,12 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="heading-v1 margin-b-20 text-center">
-                        <h2 class="heading-v1-title">Story About Me</h2>
-                        <span class="heading-v1-subtitle">碎碎念念的话，伴随着成长</span>
+                        <h2 class="heading-v1-title">碎碎念</h2>
+                        <span class="heading-v1-subtitle">我好像在哪见过你</span>
                     </div>
 
-                    <p>时间真的好快，嗖的一下就长成了今天这模样。永远不会像《挪威森林》村上写的那一句话：一直以为十八岁之后是十九岁，十九岁后是十八岁，如此反复。如今说好的十八岁离开好几年了，好宅不代表着我老，如果认真的去做的更好，只是个开始。如今过的日子并不好过的话，完全可以付出更多的努力再来活一次，找到真正想要的自己。</p>
-                    <p>执着的去做，不怕舍不得睡觉、玩乐、安逸的时间去拼，要知道现在的痛苦和难受都是以前放弃了太多努力。所以现在要抓紧努力，哪怕需要你花全部精力。去拼，如果没有天分，就用时间去换，走得再慢也不要后退。希望再过几年真的被喊叔叔的年纪，那时候回头感谢一下现在选择拼搏的我。</p>
-                    <p>没有天分，就用时间去换......</p>
+                    <p>我将在茫茫人海中寻访我唯一之灵魂伴侣。</p>
+                    <p>得之，我幸；不得，我命。</p>
                 </div>
             </div>
         </div>
