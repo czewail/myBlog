@@ -10,6 +10,10 @@
 <meta name="description" content="陈泽韦的博客致力于提供优质学习资源,分享个人笔记.">
 <meta name="author" content="chenzewei.cn">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="apple-touch-icon" href="pages/ico/60.png">
+<link rel="apple-touch-icon" sizes="76x76" href="front/img/ico/76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="front/img/ico/120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="front/img/ico/152.png">
 <link href="{{asset('front/plugins/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet" type="text/css"/>
 <link href="{{asset('front/plugins/font-awesome/css/font-awesome.min.css')}}" rel="stylesheet" type="text/css"/>
 <link href="{{asset('front/css/animate.css')}}" rel="stylesheet" type="text/css"/>
