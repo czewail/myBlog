@@ -41,7 +41,7 @@
                          -  <i class="fa fa-clock-o"></i> {{$v->created_at}}
                     </span>
                     <span class="blog-grid-supplemental-title pull-right">
-                        <i class="fa fa-eye"></i> {{Redis::get(config('admin.global.redis.article_view').$v->id)}}
+                        <i class="fa fa-eye"></i> {{LRedis::get(config('admin.global.redis.article_view').$v->id)}}
                     </span>
                 </div>
             </div>
